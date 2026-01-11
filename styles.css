@@ -1,0 +1,47 @@
+* body {
+  background-color: orangered;
+}
+.brand {
+  font-size: 2.1em;
+  font-weight: bold;
+  color: white;
+}
+header {
+  background-color: brown;
+  padding: 1.5em;
+  text-align: center;
+}
+nav {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+  flex-direction: row;
+}
+ul {
+  font-size: x-large;
+  background-color: brown;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+.testimonial {
+  font-style: italic;
+  margin: 1.5em;
+  background-color: white;
+  padding: 1em;
+  color: black;
+}
+article {
+  background-color: lightyellow;
+  padding: 1.5em;
+  margin-bottom: 1.5em;
+}
+footer {
+  color: white;
+  text-align: center;
+  padding: 1em;
+  font-weight: bold;
+  background-color: brown;
+}
